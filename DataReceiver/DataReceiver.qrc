@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/DataReceiver">
+        <file>image/2.jpg</file>
+        <file>image/3.jpg</file>
+        <file>image/4.jpg</file>
+        <file>image/5.jpg</file>
+        <file>image/6.jpg</file>
+        <file>image/timg.jpg</file>
+        <file>image/7.jpg</file>
+        <file>image/8.jpg</file>
+        <file>image/9.jpg</file>
+    </qresource>
+</RCC>
