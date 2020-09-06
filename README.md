@@ -9,4 +9,4 @@ A Remote measurement system
 * qt14
 
 ## 运行截图
-![run](/DataServer/image/show.jpg)
+![run](/DataReceiver/image/show.jpg)
