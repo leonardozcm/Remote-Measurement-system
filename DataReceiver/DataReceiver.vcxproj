@@ -113,6 +113,7 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\PGR(0S$F3O79`X}_UK99%40OW.png" />
+    <Image Include="..\..\..\..\show.png" />
     <Image Include="image\2.jpg" />
     <Image Include="image\3.jpg" />
     <Image Include="image\4.jpg" />

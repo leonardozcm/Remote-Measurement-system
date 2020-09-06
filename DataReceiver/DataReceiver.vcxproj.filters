@@ -97,5 +97,8 @@
     <Image Include="image\9.jpg">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="..\..\..\..\show.png">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
