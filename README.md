@@ -9,4 +9,4 @@ A Remote measurement system
 * qt14
 
 ## 运行截图
-![run](/DataReceiver/image/timg.jpg)
+![run](/DataServer/image/show.jpg)
